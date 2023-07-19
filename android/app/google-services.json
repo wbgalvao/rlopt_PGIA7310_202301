@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:503590979698:android:09b4b1dd845991a7601aeb",
+        "mobilesdk_app_id": "1:503590979698:android:9026a24a99925e52601aeb",
         "android_client_info": {
-          "package_name": "com.example.rlopt_app"
+          "package_name": "com.wildergalvao.rlopt"
         }
       },
       "oauth_client": [

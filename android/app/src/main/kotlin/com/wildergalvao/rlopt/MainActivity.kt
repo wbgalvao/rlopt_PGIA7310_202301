@@ -1,4 +1,4 @@
-package com.example.rlopt_app
+package com.wildergalvao.rlopt
 
 import io.flutter.embedding.android.FlutterActivity
 
