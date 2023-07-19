@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>503590979698-e5eq1emfp6i90v0eblpak5dlg9bdpo7n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.503590979698-e5eq1emfp6i90v0eblpak5dlg9bdpo7n</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>503590979698-ecqij9mpu9n2fbops37p0olothu5ghbb.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBeFdWzgJ1FDrrjtM6Wb-F2SqjfEhPmCUs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>503590979698</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.rloptApp.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>rlopt-f2860</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rlopt-f2860.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:503590979698:ios:53a06f8bccffa4b5601aeb</string>
+</dict>
+</plist>
